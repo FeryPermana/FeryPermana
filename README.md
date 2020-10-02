@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋,I'm Fery 
 
 <!--
-**FeryPermana/FeryPermana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am an Beginner web developer and informatics engineering student. I focus on the field of web developer
 
 Here are some ideas to get you started:
+
+## Tools
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
