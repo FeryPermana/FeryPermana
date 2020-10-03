@@ -1,8 +1,7 @@
 <h1> Hi there 👋,I'm Fery</h1> 
 
-<img src="https://ferypermana.github.io/assets/img/profile.jpg"/>
-
-Hello I am an informatics engineering student. I focus on the field of web developer
+<img src="https://ferypermana.github.io/assets/img/profile.jpg" width="500px"/>
+<h4>Hello I am an informatics engineering student. I focus on the field of web developer</h4>
 
 <h3>Tools & skills : </h3>
 <p>
