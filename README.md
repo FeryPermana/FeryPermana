@@ -19,7 +19,7 @@
   <b><i>VS Code</i> | <i>HTML5</i> | <i>CSS3</i> | <i>Javascript</i> | <i>Bootstrap</i> | <i>PHP</i> | <i>Laravel</i> | <i>Mysql</i></b>
   </p>
 
-<h4>
+<h10>
 <p>📚 I’m currently learning Laravel Framework, javascript and Vue js</p>
 <p>🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
-</h4>
+</h10>
