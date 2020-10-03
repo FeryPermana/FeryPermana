@@ -20,6 +20,6 @@
   </p>
 
 <h10>
-<p>-📚 I’m currently learning Laravel Framework, javascript and Vue js</p>
-<p>-🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
+<p>*📚 I’m currently learning Laravel Framework, javascript and Vue js</p>
+<p>*🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
 </h10>
