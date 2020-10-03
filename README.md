@@ -19,7 +19,7 @@
   VS Code | HTML5 | CSS3 | Javascript | Bootstrap | PHP | Laravel | Mysql
   </p>
 
-
+<p>
 📚 I’m currently learning Laravel Framework, javascript and Vue js
 🎓 I am an informatics student at Amikom University Yogyakarta
-
+</p>
