@@ -20,6 +20,6 @@
   </p>
 
 
-📓 I’m currently learning Laravel Framework and javascript
-
+📚 I’m currently learning Laravel Framework, javascript and Vue js
+🎓 I am an informatics student at Amikom University Yogyakarta
 
