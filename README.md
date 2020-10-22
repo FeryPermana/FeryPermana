@@ -1,7 +1,7 @@
 <h1> Hi there 👋,I'm Fery</h1> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 <h4>Hello I am an informatics engineering student. I focus on the field of web developer</h4>
 
 <p>
@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/ios/50/000000/laravel.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/ios/60/000000/mysql-logo.png"/>&nbsp;
  </p>
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
  <p>
   <b><i>VS Code</i> | <i>HTML5</i> | <i>CSS3</i> | <i>Javascript</i> | <i>Bootstrap</i> | <i>PHP</i> | <i>Laravel</i> | <i>Mysql</i></b>
   </p>
@@ -23,4 +23,4 @@
 <p>*📚 I’m currently learning Laravel Framework, Codeigniter Framework, Javascript and Vue js Framework</p>
 <p>*🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
 </h10>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
