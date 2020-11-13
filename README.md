@@ -1,6 +1,7 @@
 <h1> Hi there 👋,I'm Fery</h1> 
 
 <h4>Hello I am an informatics engineering student. I focus on the field of web developer</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ferrypermana.netlify.app/assets/img/profile.jpg" width="50%">
 <hr>
 <p>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>&nbsp;
