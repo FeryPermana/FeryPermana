@@ -1,9 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
 <h1> Hi there 👋,I'm Fery</h1> 
 
 <h4>Hello I am an informatics engineering student. I focus on the field of web developer</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="text-align: center;">
-<img src="https://ferrypermana.netlify.app/assets/img/profile.jpg" width="50%">
+<img src="https://ferrypermana.netlify.app/assets/img/profile.jpg" width="60%" style="border-radius: 50%;">
  <div>
 <hr>
 <p>
@@ -24,3 +31,8 @@
 <p>*📚 I’m currently learning Laravel Framework, and Javascript</p>
 <p>*🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
 </h10>
+
+
+</body>
+</html>
+
