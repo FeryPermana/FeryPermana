@@ -19,5 +19,5 @@
 
 <h10>
 <p>*📚 I’m currently learning Laravel Framework, and Javascript</p>
-<p>*🎓 I am an informatics student at <a href="https://home.amikom.ac.id">Amikom University Yogyakarta</a></p>
+<p>*🎓 I am an informatics student</p>
 </h10>
