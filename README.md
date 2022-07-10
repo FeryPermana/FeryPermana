@@ -9,9 +9,11 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>&nbsp;
 <img src="https://img.icons8.com/officel/60/000000/php-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/ios/50/000000/laravel.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/ios/60/000000/mysql-logo.png"/>&nbsp;
+
  </p>
  <p>
   <b><i>VS Code</i> | <i>HTML5</i> | <i>CSS3</i> | <i>Javascript</i> | <i>Bootstrap</i> | <i>PHP</i> | <i>Laravel</i> | <i>Mysql</i></b>
