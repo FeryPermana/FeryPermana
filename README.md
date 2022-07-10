@@ -16,7 +16,7 @@
 
  </p>
  <p>
-  <b><i>VS Code</i> | <i>HTML5</i> | <i>CSS3</i> | <i>Javascript</i> | <i>Bootstrap</i> | <i>PHP</i> | <i>Laravel</i> | <i>Mysql</i></b>
+  <b><i>VS Code</i> | <i>HTML5</i> | <i>CSS3</i> | <i>Javascript</i> | <i>Bootstrap</i> | <i>Tailwind</i> | <i>PHP</i> | <i>Laravel</i> | <i>Mysql</i></b>
   </p>
 
 <h10>
